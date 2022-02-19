@@ -1,0 +1,16 @@
+internal name   mc color            mc icon  discord/ pr0
+banned                              ⬤       #444444
+ftb             8   dark_gray       ⬤       #6c432b
+newfag          d   light_purple    ⬤       #e108e9
+fag             f   white           ⬤       #ffffff
+middleoldfag    a   green           ⬤       #addc8d
+oldfag          2   dark_green      ⬤       #5bb91c
+donator         3   dark_aqua       ⬤       #1cb992
+legend          3   dark_aqua       ◆        #1cb992
+old_sup         c   red             ⬤       #ea9fa1
+old_mod         b   aqua            ⬤       #7fc7ff
+old_admin       e   yellow          ⬤       #ffc166
+sup             4   dark_red        ❤       #c52b2f
+mod             1   dark_blue       ⬤       #008fff
+sysbot          e   yellow          ⬤       #ffc166
+admin           6   gold            ⬤       #ff9900
